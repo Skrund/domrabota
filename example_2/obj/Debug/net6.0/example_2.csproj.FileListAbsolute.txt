@@ -1,0 +1,15 @@
+E:\Examples4\example_2\bin\Debug\net6.0\example_2.exe
+E:\Examples4\example_2\bin\Debug\net6.0\example_2.deps.json
+E:\Examples4\example_2\bin\Debug\net6.0\example_2.runtimeconfig.json
+E:\Examples4\example_2\bin\Debug\net6.0\example_2.dll
+E:\Examples4\example_2\bin\Debug\net6.0\example_2.pdb
+E:\Examples4\example_2\obj\Debug\net6.0\example_2.csproj.AssemblyReference.cache
+E:\Examples4\example_2\obj\Debug\net6.0\example_2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Examples4\example_2\obj\Debug\net6.0\example_2.AssemblyInfoInputs.cache
+E:\Examples4\example_2\obj\Debug\net6.0\example_2.AssemblyInfo.cs
+E:\Examples4\example_2\obj\Debug\net6.0\example_2.csproj.CoreCompileInputs.cache
+E:\Examples4\example_2\obj\Debug\net6.0\example_2.dll
+E:\Examples4\example_2\obj\Debug\net6.0\refint\example_2.dll
+E:\Examples4\example_2\obj\Debug\net6.0\example_2.pdb
+E:\Examples4\example_2\obj\Debug\net6.0\example_2.genruntimeconfig.cache
+E:\Examples4\example_2\obj\Debug\net6.0\ref\example_2.dll
